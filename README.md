@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Photo to 3D
+
+**Embryo Photo to 3D** is Embryo-Zero's fork of [Meshroom](https://github.com/alicevision/Meshroom), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # ![Meshroom - 3D Reconstruction Software](/docs/logo/banner-meshroom.png)
 
 Meshroom is an open-source, node-based visual programming framework—a flexible toolbox for creating, managing, and executing complex data processing pipelines.
